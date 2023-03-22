@@ -1,4 +1,6 @@
 # girona_analysis
+Link to Tableau Public: https://public.tableau.com/app/profile/aidan.carlisle1068/viz/GironaNeighborhoodSummary/Neighbor_Dash
+
 This project was completed to provide an investor with insights into the available properties in Girona, Spain for a rental income property. The data was obtained from the Airbnb website and consists of listings of properties in Girona, including the neighborhood, property type, and price.
 Data Cleaning and Processing
 
